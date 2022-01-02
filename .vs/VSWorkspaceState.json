@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AngleRotation",
+    "\\GasTestDevice",
+    "\\NanoPneumatic"
+  ],
+  "SelectedNode": "\\NanoPneumatic\\Adjust.cpp",
+  "PreviewInSolutionExplorer": false
+}
